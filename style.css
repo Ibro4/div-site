@@ -1,0 +1,33 @@
+.container {
+    width: 90%
+    margin: 0 auto;
+}
+
+.header {
+    width: 100%;
+    background-color: #a50fdd;
+    height: 50px;
+    
+}
+
+.leftcolumn {
+    width: 20%;
+    background-color: brown;
+    float: left;
+    height: 68px;
+    
+}
+
+.rightcolumn {
+    width: 80%;
+    float: left;
+    background-color: rgba(17, 175, 234, 0.91);
+    
+    
+}
+
+.footer {
+    width:100%;
+    background-color: #177747;
+    float:left;
+}
